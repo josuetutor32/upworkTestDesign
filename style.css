@@ -58,7 +58,7 @@ header nav button {
 
 header nav button:last-child {
     color: whitesmoke;
-    background-color: palevioletred;
+    background-color: violet;
 }
 
 header nav button:last-child:hover {
@@ -74,7 +74,7 @@ header nav button:hover {
 header nav button:focus {
     transition-duration: 300ms;
     transition-delay: 300ms;
-    border: 1px solid gray;
+    border: 1px solid violet;
 }
 
 header .logoImg {
